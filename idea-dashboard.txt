@@ -1,0 +1,5 @@
+<option name="configurationTypes">
+	<set>
+		<option value="SpringBootApplicationConfigurationType"/>
+	</set>
+</option>
